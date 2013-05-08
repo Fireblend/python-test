@@ -4,7 +4,7 @@ print("Hola!")
 
 i = 0
 
-while(true):
+while(i != 11):
 	
 	print(i)
 	i++
